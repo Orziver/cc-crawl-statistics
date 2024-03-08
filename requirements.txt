@@ -3,3 +3,7 @@ isoweek
 mrjob
 tldextract
 ujson
+
+# My addition on installing the Python packages
+# jsonpickle
+# setuptools

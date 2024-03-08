@@ -1,5 +1,5 @@
-ggplot
+ggplot # pip install -r requirements_plot.txt didn't work, so I had to install it manual
 idna
 pandas
 pygraphviz
-rpy2
+rpy2 # Have to install R first, otherwise it won't work
