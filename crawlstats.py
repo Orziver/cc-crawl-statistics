@@ -18,6 +18,8 @@ from isoweek import Week
 from mrjob.job import MRJob, MRStep
 from mrjob.protocol import JSONProtocol, RawValueProtocol
 
+# My Addition
+INPUT="s3a://commoncrawl/cc-index/collections/CC-MAIN-2016-26/indexes/cdx-*.gz"
 
 HYPERLOGLOG_ERROR = .01
 
