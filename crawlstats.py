@@ -19,7 +19,8 @@ from mrjob.job import MRJob, MRStep
 from mrjob.protocol import JSONProtocol, RawValueProtocol
 
 # My Addition
-INPUT="s3a://commoncrawl/cc-index/collections/CC-MAIN-2016-26/indexes/cdx-*.gz"
+INPUT="C:/Users/Stier/Desktop/Oliver/Arbeit/Studentische_IT-Hilfskraft/Data_crawling/cc-index.paths/cc-index/collections/CC-MAIN-2024-10/indexes/cdx-00000.gz"
+
 
 HYPERLOGLOG_ERROR = .01
 
